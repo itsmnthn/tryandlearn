@@ -1,0 +1,26 @@
+[
+    {
+        "status": false,
+        "type": "redirect"
+    },
+    {
+        "status": false,
+        "type": "mobile only"
+    },
+    {
+        "status": false,
+        "type": "meta"
+    },
+    {
+        "status": true,
+        "type": "redirect"
+    },
+    {
+        "status": true,
+        "type": "mobile only"
+    },
+    {
+        "status": true,
+        "type": "meta"
+    }
+]
